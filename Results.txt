@@ -1,0 +1,9 @@
+DQN efficiecny = 35%
+
+DQN+LSTM = 43%
+
+interalgo 33%
+
+DQN + DNN 6.91% more efficient than DQN + LSTM
+
+DQN+DNN 43.01% efficient than DQN
